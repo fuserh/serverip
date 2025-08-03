@@ -15,3 +15,8 @@ Minecraft基岩版服务器地址:
 [IPV6]
 端口:
 19832
+
+提示:允许使用指令更改皮肤外观
+/skin url 这里输入你的皮肤网址地址 classic或者slim
+打开皮肤菜单:
+/skins
